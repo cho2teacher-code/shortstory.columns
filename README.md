@@ -1,1 +1,0 @@
-# shortstory.columns
